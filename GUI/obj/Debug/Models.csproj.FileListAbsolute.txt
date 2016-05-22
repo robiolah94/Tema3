@@ -1,0 +1,4 @@
+D:\sem2\PS\lab\Bilete\Bilete\GUI\bin\Debug\GUI.dll
+D:\sem2\PS\lab\Bilete\Bilete\GUI\bin\Debug\GUI.pdb
+D:\sem2\PS\lab\Bilete\Bilete\GUI\obj\Debug\GUI.dll
+D:\sem2\PS\lab\Bilete\Bilete\GUI\obj\Debug\GUI.pdb

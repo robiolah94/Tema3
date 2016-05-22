@@ -1,0 +1,14 @@
+D:\sem2\PS\lab\Bilete\Bilete\BL\bin\Debug\BL.dll
+D:\sem2\PS\lab\Bilete\Bilete\BL\bin\Debug\BL.pdb
+D:\sem2\PS\lab\Bilete\Bilete\BL\bin\Debug\DL.dll
+D:\sem2\PS\lab\Bilete\Bilete\BL\bin\Debug\DL.pdb
+D:\sem2\PS\lab\Bilete\Bilete\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\sem2\PS\lab\Bilete\Bilete\BL\obj\Debug\BL.dll
+D:\sem2\PS\lab\Bilete\Bilete\BL\obj\Debug\BL.pdb
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\obj\Debug\BL.dll
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\BL.dll
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\BL.pdb
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\DL.dll
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\DL.pdb
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\obj\Debug\BL.pdb

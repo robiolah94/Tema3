@@ -1,0 +1,10 @@
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\bin\Debug\Bilete.exe.config
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\bin\Debug\Bilete.exe
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\bin\Debug\Bilete.pdb
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Bilete.AdminForm.resources
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Bilete.LoginForm.resources
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Bilete.Properties.Resources.resources
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Models.csproj.GenerateResource.Cache
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Bilete.exe
+D:\sem2\PS\lab\Bilete\Bilete\Bilete\obj\Debug\Bilete.pdb

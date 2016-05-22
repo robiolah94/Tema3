@@ -1,0 +1,5 @@
+D:\sem2\PS\lab\Bilete\Bilete\DL\bin\Debug\DL.dll
+D:\sem2\PS\lab\Bilete\Bilete\DL\bin\Debug\DL.pdb
+D:\sem2\PS\lab\Bilete\Bilete\DL\obj\Debug\DL.dll
+D:\sem2\PS\lab\Bilete\Bilete\DL\obj\Debug\DL.pdb
+D:\sem2\PS\lab\Bilete\Bilete\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
