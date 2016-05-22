@@ -8,16 +8,16 @@ namespace BL
 {
     public class FactoryExport
     {
-        public Export getExporter(String type)
+        public Export getExporter(String tip)
         {
 
-            if (type.Equals("CSV"))
+            if (tip.Equals("XML"))
             {
-                return new ExportCSV();
+                return new ExportXML();
             }
-            else if (type.Equals("JSON"))
+            else if (tip.Equals("EXCEL"))
             {
-                return new ExportJSON();
+                return new ExportExcel();
             }
             return null;
 

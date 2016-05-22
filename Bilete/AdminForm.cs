@@ -71,20 +71,18 @@ namespace Bilete
 
         }
 
+        FactoryExport factory = new FactoryExport();
+       
         private void button6_Click(object sender, EventArgs e)
         {
-            FactoryExport factory = new FactoryExport();
-            Export Csv = factory.getExporter("CSV");
-            Csv.export();
-            MessageBox.Show("Csv created succesfully");
+            factory.getExporter("XML").export();
+            MessageBox.Show("XML created ");
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            FactoryExport factory = new FactoryExport();
-            Export JSON = factory.getExporter("CSV");
-            JSON.export();
-            MessageBox.Show("JSON created succesfully");
+            factory.getExporter("EXCEL").export();
+            MessageBox.Show("Excel created ");
         }
     }
 }

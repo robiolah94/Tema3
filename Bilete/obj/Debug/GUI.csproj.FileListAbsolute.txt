@@ -32,3 +32,4 @@ D:\sem2\PS\lab\Tema3PS\Bilete\Bilete\obj\Debug\Bilete.ForgotPasswordForm.resourc
 D:\sem2\PS\lab\Tema3PS\Bilete\Bilete\obj\Debug\Bilete.LoginForm.resources
 D:\sem2\PS\lab\Tema3PS\Bilete\Bilete\obj\Debug\Bilete.Properties.Resources.resources
 D:\sem2\PS\lab\Tema3PS\Bilete\Bilete\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\sem2\PS\lab\Tema3PS\Bilete\Bilete\bin\Debug\ExcelLibrary.dll

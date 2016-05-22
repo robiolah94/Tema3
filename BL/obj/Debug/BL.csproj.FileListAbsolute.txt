@@ -12,3 +12,4 @@ D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\BL.pdb
 D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\DL.dll
 D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\DL.pdb
 D:\sem2\PS\lab\Tema3PS\Bilete\BL\obj\Debug\BL.pdb
+D:\sem2\PS\lab\Tema3PS\Bilete\BL\bin\Debug\ExcelLibrary.dll
